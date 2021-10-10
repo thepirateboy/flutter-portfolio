@@ -3,10 +3,10 @@ import React from 'react';
 function Contact(){
     return (
         <section id="contact" class="text-center">
-      <a href="https://www.linkedin.com/in/wiratmoko/" class="btn btn-primary me-4">Check my LinkedIn</a>
-      <a href="https://github.com/thepirateboy" class="btn btn-dark me-4">Go to my Github</a>
-      <a href="https://yaeyx.com" class="btn btn-warning me-4">See my web resume</a>
-      <a href="https://yaeyx.com/resume.pdf" class="btn btn-danger me-4">See my full resume</a>
+      <a href="https://www.linkedin.com/in/wiratmoko/" class="btn btn-primary me-4 mt-3" target="_blank">Check my LinkedIn</a>
+      <a href="https://github.com/thepirateboy" class="btn btn-dark me-4 mt-3" target="_blank">Go to my Github</a>
+      <a href="https://yaeyx.com" class="btn btn-warning me-4 mt-3" target="_blank">See my web resume</a>
+      <a href="https://yaeyx.com/resume.pdf" class="btn btn-danger me-4 mt-3" target="_blank">See my full resume</a>
       
       <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1440 320">
         <path
